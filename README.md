@@ -4,7 +4,8 @@
 
 #define phi 3.14
 
-void main(){
+void main()
+{
 
 float r_alas, r_selimut, t, volume_krucut, luas_alas, luas_selimut;
 
